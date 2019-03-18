@@ -1,0 +1,25 @@
+.navbar-nav > li > a{
+    width:100px;
+    text-align: center;
+    height: 100px;
+    vertical-align: middle;
+}
+
+.navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:focus {
+    background-color: #ddd;
+    color: #FFC0CB;
+    width:100px;
+    margin:0px;
+}
+
+body > nav {
+    padding: 0px 0px 0px 0px !important;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+git remote add origin  https://myoauth123:Yog33Raj33@github.com/myoauth123/Bootstrap4Nabar.git
